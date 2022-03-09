@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,MACE,UAAW","file":"main.19c5901d.chunk.css","sourcesContent":["// styles go here\n.name {\n  color: aqua;\n}\n"]}
